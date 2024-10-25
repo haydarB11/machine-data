@@ -1,0 +1,34 @@
+{
+    "validation": {
+        "empty_message": "{{field}} لا يمكن أن يكون فارغًا",
+        "string_message": "يجب أن يكون {{field}} بتنسيق نصي.",
+        "email_message": "يرجى إدخال عنوان بريد إلكتروني صحيح.",
+        "required_message": "{{field}} مطلوب.",
+        "min_message": "{{field}} يجب أن يكون بطول لا يقل عن {{limit}} حرفًا.",
+        "max_message": "{{field}} يجب أن يكون بطول لا يتجاوز {{limit}} حرفًا.",
+        "uniq_message": "{{field}} مُستخدم بالفعل.",
+        "not_found_message": "{{field}} غير موجود.",
+        "wrong_password_message": "{{field}} كلمة المرور غير صحيحة.",
+        "inactive_user_message": "حسابك غير نشط.",
+        "number_message": "{{field}} يجب أن يكون رقمًا صحيحًا.",
+        "integer_message": "{{field}} يجب أن يكون عددًا صحيحًا.",
+        "positive_message": "{{field}} يجب أن يكون رقمًا موجبًا.",
+        "array_message": "{{field}} يجب أن يكون مصفوفة.",
+        "min_array_message": "{{field}} يجب أن يحتوي على الأقل {{limit}} عنصرًا.",
+        "pattern_message": "يجب أن تحتوي كلمة المرور على الأقل على حرف صغير واحد، وحرف كبير واحد، ورقم واحد، وحرف خاص واحد."
+    },
+    "welcome_message": "مرحبًا بك في التطبيق",
+    "page_not_found": "الصفحة غير موجودة",
+    "error": {
+        "internal_server_error": "خطأ في الخادم الداخلي",
+        "not_found": "المورد غير موجود",
+        "validation_error": "خطأ في التحقق",
+        "unauthorized_access": "وصول غير مصرح به",
+        "access_forbidden": "الوصول ممنوع"
+    },
+    "create_message": "{{field}} تم إنشاؤه بنجاح.",
+    "update_message": "{{field}} تم تحديثه بنجاح.",
+    "delete_message": "{{field}} تم حذفه بنجاح.",
+    "success_message": "{{field}} تم بنجاح.",
+    "error_message": "حدث خطأ."
+}

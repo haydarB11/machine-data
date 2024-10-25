@@ -1,0 +1,35 @@
+{
+    "validation": {
+        "empty_message": "{{field}} cannot be empty",
+        "string_message": "The {{field}} should be in text format.",
+        "email_message": "Please enter a valid email address.",
+        "required_message": "{{field}} is required.",
+        "min_message": "{{field}} should have a minimum length of {{limit}} characters.",
+        "max_message": "{{field}} should have a maximum length of {{limit}} characters.",
+        "uniq_message": "{{field}} Is Already Used.",
+        "not_found_message": "{{field}} Not Found.",
+        "wrong_password_message": "{{field}} Is Wrong Password",
+        "inactive_user_message": "Your Account Is Inactive",
+        "number_message": "{{field}} Should Be A Valid Number.",
+        "integer_message": "{{field}} Should Be An Integer.",
+        "positive_message": "{{field}} Should Be A Positive Number.",
+        "array_message": "{{field}} Should Be An Array.",
+        "min_array_message": "{{field}} Should Have At Least {{limit}} Item(s).",
+        "pattern_message": "Password must contain at least one lowercase letter, one uppercase letter, one number, and one special character.",
+        "xor_message": "Body must contain at least one of [{{field1}}, {{field2}}]"
+    },
+    "welcome_message": "Welcome To The Application" ,
+    "page_not_found": "Page Not Found",
+    "error": {
+        "internal_server_error": "Internal Server Error",
+        "not_found": "Resource Not Found",
+        "validation_error": "Validation Error",
+        "unauthorized_access": "Unauthorized Access",
+        "access_forbidden": "Access Forbidden"
+    },
+    "create_message": "{{field}} Create Successfully",
+    "update_message": "{{field}} Update Successfully",
+    "delete_message": "{{field}} Delete Successfully",
+    "success_message": "{{field}} Compleat Successfully",
+    "error_message": ""
+}
